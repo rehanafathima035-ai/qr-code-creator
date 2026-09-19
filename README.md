@@ -109,37 +109,6 @@ https://leetcode.com/
 
 the program generates a QR code that can be scanned to open the LeetCode website.
 
-## 🔧 Customization
-
-You can generate a QR code for any URL or text by changing the `data` variable:
-
-```python
-data = "https://github.com/"
-```
-
-or:
-
-```python
-data = "Hello, World!"
-```
-
-You can also change the output filename:
-
-```python
-img.save("github_qr.png")
-```
-
-## 🚀 Future Improvements
-
-Possible improvements for this project:
-
-* Add user input instead of hardcoding the URL
-* Add customizable QR colors
-* Add custom QR sizes
-* Create a simple GUI
-* Allow users to generate multiple QR codes
-* Add support for QR codes containing Wi-Fi credentials or contact information
-
 ## 📚 What I Learned
 
 * Installing and using a Python package
